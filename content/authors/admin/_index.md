@@ -20,7 +20,7 @@ organizations:
     url: https://hkust.edu.hk
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Science and Engineering
       institution: The Hong Kong University of Science and Technology
       year: ""
     - course: BSc in Computer Science
