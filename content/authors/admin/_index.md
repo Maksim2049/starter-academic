@@ -30,4 +30,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Mengxuan Li is a PhD student in Department of Computer Science and Engineering, HKUST.
+Mengxuan Li is a PhD student in the Department of Computer Science and Engineering, HKUST.
