@@ -4,7 +4,7 @@ url_pdf: ""
 summary: UROP 1100 Project
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: "null"
+external_link: "mengxuan-li-hkust.netlify.app/project/urop_huamin"
 url_slides: ""
 title: Visual Analysis of Big Data
 tags:
