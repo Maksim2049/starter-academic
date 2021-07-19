@@ -25,7 +25,6 @@ experience:
   - title: Project Assistant Intern
     company: Vizz Digital Group, Madcradle Online Limited
     company_url: 'www.vizztech.com'
-    company_logo: vizztech_logo
     location: Hong Kong
     date_start: '2020-06-01'
     date_end: '2020-07-31'
