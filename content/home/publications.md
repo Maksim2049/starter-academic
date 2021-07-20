@@ -2,7 +2,7 @@
 widget: pages
 widget_id: An example publication paper
 headless: true
-weight: 10
+weight: 20
 title: Recent Publications
 subtitle: ""
 content:
