@@ -3,7 +3,7 @@ widget: pages
 widget_id: An example publication paper
 headless: true
 weight: 20
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   page_type: publication
