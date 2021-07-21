@@ -17,6 +17,7 @@ content:
   autolink: true
   
   # Email form provider
+  email_form = 0
   form:
     provider: netlify
     formspree:
