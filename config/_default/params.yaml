@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: mlibs[at]connect[dot]ust[dot]hk
+#email: mlibs[at]connect[dot]ust[dot]hk
 #phone: 888 888 88 88
 address:
   street: Clear Water Bay
   city: Hong Kong
-#  country: China
-#  country_code: CN
+  country: China
+  country_code: CN
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
